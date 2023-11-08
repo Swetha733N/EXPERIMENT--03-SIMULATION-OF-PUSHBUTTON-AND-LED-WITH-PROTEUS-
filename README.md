@@ -1,7 +1,14 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
+
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
+
+
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
+
+
 ## Theory 
+
+
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
 What is an ARM7 Processor?
@@ -71,6 +78,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
+
 ```
 #### Code developed by: N SWETHA
 #### Register number: 212222110050
@@ -188,6 +196,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![264088201-bb2f2ba5-760e-4d4a-87bc-ca5c4f600e7e](https://github.com/Swetha733N/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/122199934/028b154c-ca68-43b9-932b-ebb9ad4065e2)
 
 ## Output screen shots of proteus  :
+
+
 ![264088642-7ee39dee-c6fd-4ded-b503-091005b1cd71](https://github.com/Swetha733N/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/122199934/914d2108-aec9-4900-b4e1-5b25f7b4f430)
 
 ![264088692-f372b993-5951-4cdb-9f44-e9cad45ac742](https://github.com/Swetha733N/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/122199934/d03b0a10-1f27-4097-8912-04c381c00622)
@@ -195,6 +205,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
+
+
 ![264089132-217d0077-3305-4c8f-9bf8-b1121ea4b097](https://github.com/Swetha733N/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/122199934/32f03cc0-6acc-4167-868e-3c99c567183e)
 
  
